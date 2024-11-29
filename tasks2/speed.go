@@ -1,4 +1,4 @@
-package tasks
+package tasks2
 
 // TODO: define the 'Car' type struct
 type Car struct {

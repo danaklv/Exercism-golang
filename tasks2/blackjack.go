@@ -1,4 +1,4 @@
-package tasks
+package tasks2
 
 // ParseCard returns the integer value of a card following blackjack ruleset.
 func ParseCard(card string) int {
